@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Victor 
+- 👋 Hi, I’m Victor Sena
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on new programmes and sites to make our lives easier!
+- 💞️ I’m looking to collaborate on new programs and sites to make our lives easier!
 - 📫 How to reach me my e-mail 19victorpereira@gmail.com
 
 <!---
